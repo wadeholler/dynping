@@ -4,6 +4,7 @@ DynamopDB Ping is an example of testing our connection to DynamoDB.
 Currently this is done via a ListTables call.
 
 *note* - this is a quick hack ymmv
+
 *note* - there is a statically linked binary for linux in the binary
 folder temporarily.
 
